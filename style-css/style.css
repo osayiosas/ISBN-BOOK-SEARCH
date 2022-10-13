@@ -1,0 +1,16 @@
+/* css */
+
+/* Box Model */
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+/* layout */
+
+img {
+    display: block;
+    margin: 0 auto;
+}
